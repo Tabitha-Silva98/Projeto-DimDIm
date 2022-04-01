@@ -1,0 +1,61 @@
+.titulo-topo>h1 {
+    color: #FF4081;
+    font-weight: 700;
+font-size: 60px;
+margin: 82px 0 8px 82px;
+line-height: 69px;
+}
+
+.titulo-topo>h3 {
+    font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+color: #555555;
+margin: 0 82px;
+}
+
+.todos-os-cursos{
+    display: flex;
+    text-align: center;
+    margin: 95px 0 68px 112px;
+    flex-wrap: wrap
+}
+
+.todos-os-cursos img{
+width: 380px;
+}
+
+main{
+    margin-left: 53px;
+}
+
+.todos-os-cursos span{
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 40px;
+    color: #FF4081;
+    margin: 21px 0 37px 0;
+    justify-content: space-between ;
+}
+
+.todos-os-cursos p{
+    font-weight: 300;
+font-size: 18px;
+line-height: 21px;
+color: #000000;
+width: 724px;
+margin: 0 0 65px 0;
+flex-wrap: wrap;
+}
+
+.todos-os-cursos a{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    text-decoration: none;
+    background: #419488;
+    border-radius: 50px;
+    color: #FFFFFF;
+    padding: 10px 35px;
+}
