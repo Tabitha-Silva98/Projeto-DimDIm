@@ -1,15 +1,11 @@
-*{ 
+*{
     padding: 0;
     margin: 0;
 }
-
 body{
     font-family: 'Ubuntu', sans-serif;
 }
-
-
 header{
-   
     color: transparent;
     display: flex;
     padding: 20px 82px 26px;
@@ -18,25 +14,18 @@ header{
     background: #2E948A;
     box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.25);
 }
-
 header nav ul li{
-        list-style: none;
-        margin-right: 30px;
-        color: white;
-        font-size: 30px;
+    list-style: none;
+    margin-right: 30px;
+    color: white;
+    font-size: 30px;
 }
-
 header nav ul {
     display: flex;
-
 }
-
 ul li{
-  text-transform: lowercase;
+    text-transform: lowercase;
 }
-
-
-
 footer{
     background-color: #2E948A;
     display: flex;
@@ -45,37 +34,30 @@ footer{
     padding: 50px 137px;
     font-weight: 400;
     font-size: 20px;
-
 }
-
 footer nav ul li{
     list-style: none;
     color: white;
     padding: 0;
 }
-
 footer a {
     color: white;
     text-decoration: none;
     text-transform: lowercase;
-
 }
-
 .links li{
     list-style: none;
     border: 2px solid #FFFFFF;
-box-sizing: border-box;
-border-radius: 62px;
-text-align: center;
-padding: 15px 53px;
-font-weight: 400;
-font-size: 20px;
+    box-sizing: border-box;
+    border-radius: 62px;
+    text-align: center;
+    padding: 15px 53px;
+    font-weight: 400;
+    font-size: 20px;
 }
-
 .links li:first-child{
     margin-bottom: 13px ;
 }
-
 .links li:hover, .links li:hover a{
     background-color: #FFFFFF;
     color: #2E948A;

@@ -6,7 +6,6 @@
     margin: 0;
     text-align: center;
 }
-
 .titulo-principal h4{
     font-weight: 300;
     font-size: 18px;
@@ -15,13 +14,11 @@
     margin: 12px 0 74px 0;
     text-align: center;
 }
-
 .titulo-principal img{
     width: 1032;
     Height: 465px;
     justify-content:space-between;
 }
-
 .titulo-principal h2 {
     font-weight: 600;
     font-size: 30px;
@@ -30,7 +27,6 @@
     margin-top: 80px;
     text-align: start;
 }
-
 .titulo-principal p {
     font-weight: 300;
     font-size: 18px;
@@ -38,12 +34,10 @@
     color: #000000;
     text-align: justify;
 }
-
 article{
     display: flex;
     flex-direction: column;
 }
-
 article h3{
     text-align: center;
     margin-bottom: 101px;
@@ -52,13 +46,11 @@ article h3{
     line-height: 57px;
     color: #FF4081;
 }
-
 .cursos{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
-
 .curso-dimdim{
     width: 344px;
     height: 505px;
@@ -66,23 +58,20 @@ article h3{
     align-items: center;
     margin: 0 15px 119px 15px;
 }
-
 .curso-dimdim img{
     width: 288px;
     height: 270px;
     display: block;
     margin-bottom: 45px;
 }
-
 .curso-dimdim h4{
     font-weight: 700;
-font-size: 25px;
-color: #FF4081;
-display: block;
-text-align: center;
-margin-bottom: 23px;
+    font-size: 25px;
+    color: #FF4081;
+    display: block;
+    text-align: center;
+    margin-bottom: 23px;
 }
-
 .curso-dimdim p{
     color:#000000;
     font-weight: 300;
@@ -92,7 +81,6 @@ margin-bottom: 23px;
     width: 293px;
     margin-bottom: 26px;
 }
-
 .curso-dimdim a{
     text-decoration: none;
     font-weight: 400;
@@ -101,9 +89,8 @@ margin-bottom: 23px;
     display: block;
     text-align: center;
     border: 1px solid #FF4081;
-    background-color: #FF4081;;
+    background-color: #FF4081;
+   ;
     border-radius: 62px;
     padding: 10px 50px;
-
 }
-
